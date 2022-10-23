@@ -27,7 +27,7 @@ namespace ProjektP01
             if (Rozmiar == "Duży")
 
             {
-                a++;
+                a=a+1;
             }
                
         }
