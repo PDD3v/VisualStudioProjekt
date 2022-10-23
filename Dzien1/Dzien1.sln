@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjektP01", "ProjektP01\ProjektP01.csproj", "{34EFD067-0E42-452F-8AAA-14158CE53433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplikacjaOkinekowa", "AplikacjaOkinekowa\AplikacjaOkinekowa.csproj", "{F72D0D90-1A14-4E88-9A2F-F65DE7A28926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34EFD067-0E42-452F-8AAA-14158CE53433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EFD067-0E42-452F-8AAA-14158CE53433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EFD067-0E42-452F-8AAA-14158CE53433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EFD067-0E42-452F-8AAA-14158CE53433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F72D0D90-1A14-4E88-9A2F-F65DE7A28926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72D0D90-1A14-4E88-9A2F-F65DE7A28926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72D0D90-1A14-4E88-9A2F-F65DE7A28926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72D0D90-1A14-4E88-9A2F-F65DE7A28926}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2833FA50-38E9-4B28-A58B-D89A52941E3C}
+	EndGlobalSection
+EndGlobal

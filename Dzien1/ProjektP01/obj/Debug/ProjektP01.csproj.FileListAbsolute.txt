@@ -1,0 +1,8 @@
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Dzien1\ProjektP01\bin\Debug\ProjektP01.exe.config
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Dzien1\ProjektP01\bin\Debug\ProjektP01.exe
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Dzien1\ProjektP01\bin\Debug\ProjektP01.pdb
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Dzien1\ProjektP01\obj\Debug\ProjektP01.csproj.AssemblyReference.cache
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Dzien1\ProjektP01\obj\Debug\ProjektP01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Dzien1\ProjektP01\obj\Debug\ProjektP01.csproj.CoreCompileInputs.cache
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Dzien1\ProjektP01\obj\Debug\ProjektP01.exe
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Dzien1\ProjektP01\obj\Debug\ProjektP01.pdb
