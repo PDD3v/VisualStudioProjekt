@@ -46,7 +46,6 @@
             this.plus = new System.Windows.Forms.Button();
             this.exponentiation = new System.Windows.Forms.Button();
             this.x0 = new System.Windows.Forms.Button();
-            this.sqrt = new System.Windows.Forms.Button();
             this.comma = new System.Windows.Forms.Button();
             this.xC = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -184,14 +183,6 @@
             this.x0.UseVisualStyleBackColor = false;
             this.x0.Click += new System.EventHandler(this.OnNumberClick);
             // 
-            // sqrt
-            // 
-            this.sqrt.BackColor = System.Drawing.SystemColors.InactiveCaption;
-            resources.ApplyResources(this.sqrt, "sqrt");
-            this.sqrt.Name = "sqrt";
-            this.sqrt.UseVisualStyleBackColor = false;
-            this.sqrt.Click += new System.EventHandler(this.OnButtonOperation);
-            // 
             // comma
             // 
             this.comma.BackColor = System.Drawing.SystemColors.Info;
@@ -215,7 +206,6 @@
             this.BackColor = System.Drawing.SystemColors.MenuBar;
             this.Controls.Add(this.xC);
             this.Controls.Add(this.comma);
-            this.Controls.Add(this.sqrt);
             this.Controls.Add(this.x0);
             this.Controls.Add(this.equal);
             this.Controls.Add(this.plus);
@@ -261,7 +251,6 @@
         private System.Windows.Forms.Button plus;
         private System.Windows.Forms.Button exponentiation;
         private System.Windows.Forms.Button x0;
-        private System.Windows.Forms.Button sqrt;
         private System.Windows.Forms.Button comma;
         private System.Windows.Forms.Button xC;
     }

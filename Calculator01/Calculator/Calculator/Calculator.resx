@@ -122,16 +122,19 @@
     <value>Microsoft Sans Serif, 24pt</value>
   </data>
   <data name="Result.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 12</value>
+    <value>24, 23</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Result.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="Result.Size" type="System.Drawing.Size, System.Drawing">
-    <value>324, 44</value>
+    <value>644, 80</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="Result.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="Result.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
     <value>Right</value>
   </data>
@@ -145,16 +148,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;Result.ZOrder" xml:space="preserve">
-    <value>19</value>
+    <value>18</value>
   </data>
   <data name="x7.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="x7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 94</value>
+    <value>24, 181</value>
+  </data>
+  <data name="x7.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="x7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 115</value>
   </data>
   <data name="x7.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -172,16 +178,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;x7.ZOrder" xml:space="preserve">
-    <value>18</value>
+    <value>17</value>
   </data>
   <data name="x4.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="x4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 160</value>
+    <value>24, 308</value>
+  </data>
+  <data name="x4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="x4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 115</value>
   </data>
   <data name="x4.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -199,16 +208,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;x4.ZOrder" xml:space="preserve">
-    <value>17</value>
+    <value>16</value>
   </data>
   <data name="x1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="x1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 226</value>
+    <value>24, 435</value>
+  </data>
+  <data name="x1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="x1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 115</value>
   </data>
   <data name="x1.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -226,16 +238,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;x1.ZOrder" xml:space="preserve">
-    <value>16</value>
+    <value>15</value>
   </data>
   <data name="x2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="x2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>78, 226</value>
+    <value>156, 435</value>
+  </data>
+  <data name="x2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="x2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 115</value>
   </data>
   <data name="x2.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -253,16 +268,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;x2.ZOrder" xml:space="preserve">
-    <value>13</value>
+    <value>12</value>
   </data>
   <data name="x5.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="x5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>78, 160</value>
+    <value>156, 308</value>
+  </data>
+  <data name="x5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="x5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 115</value>
   </data>
   <data name="x5.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -280,16 +298,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;x5.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>13</value>
   </data>
   <data name="x8.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="x8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>78, 94</value>
+    <value>156, 181</value>
+  </data>
+  <data name="x8.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="x8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 115</value>
   </data>
   <data name="x8.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -307,16 +328,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;x8.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>14</value>
   </data>
   <data name="x3.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="x3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>144, 226</value>
+    <value>288, 435</value>
+  </data>
+  <data name="x3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="x3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 115</value>
   </data>
   <data name="x3.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -334,16 +358,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;x3.ZOrder" xml:space="preserve">
-    <value>10</value>
+    <value>9</value>
   </data>
   <data name="x6.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="x6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>144, 160</value>
+    <value>288, 308</value>
+  </data>
+  <data name="x6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="x6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 115</value>
   </data>
   <data name="x6.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -361,16 +388,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;x6.ZOrder" xml:space="preserve">
-    <value>11</value>
+    <value>10</value>
   </data>
   <data name="x9.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="x9.Location" type="System.Drawing.Point, System.Drawing">
-    <value>144, 94</value>
+    <value>288, 181</value>
+  </data>
+  <data name="x9.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="x9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 115</value>
   </data>
   <data name="x9.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -388,16 +418,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;x9.ZOrder" xml:space="preserve">
-    <value>12</value>
+    <value>11</value>
   </data>
   <data name="minus.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="minus.Location" type="System.Drawing.Point, System.Drawing">
-    <value>210, 292</value>
+    <value>420, 562</value>
+  </data>
+  <data name="minus.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="minus.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 115</value>
   </data>
   <data name="minus.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -415,16 +448,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;minus.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>6</value>
   </data>
   <data name="multiplication.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="multiplication.Location" type="System.Drawing.Point, System.Drawing">
-    <value>276, 94</value>
+    <value>552, 181</value>
+  </data>
+  <data name="multiplication.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="multiplication.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 115</value>
   </data>
   <data name="multiplication.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -442,16 +478,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;multiplication.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>7</value>
   </data>
   <data name="division.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="division.Location" type="System.Drawing.Point, System.Drawing">
-    <value>276, 160</value>
+    <value>552, 308</value>
+  </data>
+  <data name="division.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="division.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 115</value>
   </data>
   <data name="division.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -469,16 +508,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;division.ZOrder" xml:space="preserve">
-    <value>9</value>
+    <value>8</value>
   </data>
   <data name="equal.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="equal.Location" type="System.Drawing.Point, System.Drawing">
-    <value>276, 292</value>
+    <value>552, 435</value>
+  </data>
+  <data name="equal.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="equal.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 242</value>
   </data>
   <data name="equal.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -496,16 +538,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;equal.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>3</value>
   </data>
   <data name="plus.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="plus.Location" type="System.Drawing.Point, System.Drawing">
-    <value>210, 226</value>
+    <value>420, 435</value>
+  </data>
+  <data name="plus.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="plus.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 115</value>
   </data>
   <data name="plus.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -523,16 +568,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;plus.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>4</value>
   </data>
   <data name="exponentiation.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="exponentiation.Location" type="System.Drawing.Point, System.Drawing">
-    <value>210, 94</value>
+    <value>420, 308</value>
+  </data>
+  <data name="exponentiation.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="exponentiation.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 115</value>
   </data>
   <data name="exponentiation.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -550,16 +598,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;exponentiation.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>5</value>
   </data>
   <data name="x0.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="x0.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 292</value>
+    <value>24, 562</value>
+  </data>
+  <data name="x0.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="x0.Size" type="System.Drawing.Size, System.Drawing">
-    <value>126, 60</value>
+    <value>252, 115</value>
   </data>
   <data name="x0.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
@@ -577,43 +628,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;x0.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="sqrt.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
-  </data>
-  <data name="sqrt.Location" type="System.Drawing.Point, System.Drawing">
-    <value>210, 160</value>
-  </data>
-  <data name="sqrt.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
-  </data>
-  <data name="sqrt.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
-  </data>
-  <data name="sqrt.Text" xml:space="preserve">
-    <value>√</value>
-  </data>
-  <data name="&gt;&gt;sqrt.Name" xml:space="preserve">
-    <value>sqrt</value>
-  </data>
-  <data name="&gt;&gt;sqrt.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;sqrt.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;sqrt.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
   <data name="comma.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 14.25pt, style=Bold</value>
   </data>
   <data name="comma.Location" type="System.Drawing.Point, System.Drawing">
-    <value>144, 292</value>
+    <value>288, 562</value>
+  </data>
+  <data name="comma.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="comma.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 115</value>
   </data>
   <data name="comma.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
@@ -640,10 +667,13 @@
     <value>NoControl</value>
   </data>
   <data name="xC.Location" type="System.Drawing.Point, System.Drawing">
-    <value>276, 226</value>
+    <value>420, 181</value>
+  </data>
+  <data name="xC.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="xC.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 60</value>
+    <value>120, 115</value>
   </data>
   <data name="xC.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
@@ -667,10 +697,13 @@
     <value>True</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
+    <value>12, 25</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>353, 361</value>
+    <value>706, 694</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Calculator</value>
