@@ -18,7 +18,7 @@ namespace Calculator
         private string _firstValue;
         private string _secondValue;
         private string _operation;
-               
+                      
         public Calculator()
         {
             InitializeComponent();
@@ -38,9 +38,6 @@ namespace Calculator
                 _secondValue += clickedValue;
             }
 
-            
-
-
         }
 
         private void OnButtonOperation(object sender, EventArgs e)
@@ -57,6 +54,7 @@ namespace Calculator
             {
                 _secondValue = _firstValue;
             }
+           
 
 
         }
@@ -103,7 +101,8 @@ namespace Calculator
             }
 
             _operation = string.Empty;
-
+            _secondValue = string.Empty;
+          
         }
 
         private void OnButtonClear(object sender, EventArgs e)
