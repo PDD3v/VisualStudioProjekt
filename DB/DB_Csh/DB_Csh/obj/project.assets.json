@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Redmibook\\Desktop\\VisualStudioProjekt\\Calculator01\\DB\\DB_Csh\\DB_Csh\\DB_Csh.csproj",
+      "projectUniqueName": "C:\\Users\\Redmibook\\Desktop\\VisualStudioProjekt\\DB\\DB_Csh\\DB_Csh\\DB_Csh.csproj",
       "projectName": "DB_Csh",
-      "projectPath": "C:\\Users\\Redmibook\\Desktop\\VisualStudioProjekt\\Calculator01\\DB\\DB_Csh\\DB_Csh\\DB_Csh.csproj",
+      "projectPath": "C:\\Users\\Redmibook\\Desktop\\VisualStudioProjekt\\DB\\DB_Csh\\DB_Csh\\DB_Csh.csproj",
       "packagesPath": "C:\\Users\\Redmibook\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Redmibook\\Desktop\\VisualStudioProjekt\\Calculator01\\DB\\DB_Csh\\DB_Csh\\obj\\",
+      "outputPath": "C:\\Users\\Redmibook\\Desktop\\VisualStudioProjekt\\DB\\DB_Csh\\DB_Csh\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Redmibook\\AppData\\Roaming\\NuGet\\NuGet.Config",

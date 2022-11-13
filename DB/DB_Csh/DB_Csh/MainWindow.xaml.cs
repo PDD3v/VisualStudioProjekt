@@ -24,5 +24,10 @@ namespace DB_Csh
         {
             InitializeComponent();
         }
+
+        private void EnterName_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
