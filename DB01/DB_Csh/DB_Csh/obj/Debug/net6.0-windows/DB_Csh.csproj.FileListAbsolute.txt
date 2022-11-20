@@ -1,0 +1,5 @@
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\DB01\DB_Csh\DB_Csh\obj\Debug\net6.0-windows\DB_Csh.csproj.AssemblyReference.cache
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\DB01\DB_Csh\DB_Csh\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\DB01\DB_Csh\DB_Csh\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\DB01\DB_Csh\DB_Csh\obj\Debug\net6.0-windows\DB_Csh_MarkupCompile.cache
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\DB01\DB_Csh\DB_Csh\obj\Debug\net6.0-windows\DB_Csh_MarkupCompile.lref

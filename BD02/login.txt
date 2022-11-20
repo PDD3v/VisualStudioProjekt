@@ -1,0 +1,7 @@
+serwertl.database.windos.net
+
+login:tomasz hasło:Politechnika20
+
+bazaTestowa
+
+Scaffold-DbContext "Data Source=serwertl.database.windows.net;Initial Catalog=bazaTestowa;Persist Security Info=True;User ID=tomasz;Password=Politechnika20" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
