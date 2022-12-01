@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Projekt1DB.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,17 @@ namespace Projekt1DB
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void btnWczytaj_Click(object sender, RoutedEventArgs e)
+        {
+            BazaTestowaContext db= new BazaTestowaContext();
+
+            var zawodnicy =db.Osobies.ToArray();
+            lblDane.ItemsSource = zawodnicy;
+            lblDane.DisplayMemberPath = "DaneDoWyswitlenia";
+
+
         }
     }
 }

@@ -6,7 +6,27 @@
         xmlns:local="clr-namespace:Projekt1DB"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Margin="0,0,10,0">
+        <DockPanel>
+            <StackPanel>
+                <Button Click="btnWczytaj_Click" x:Name="btnWczytaj" Content="Wczytaj" HorizontalAlignment="Left" VerticalAlignment="Top" Height="55" Width="64"/>
+                <ListBox x:Name="lblDane" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,60,0,137" Grid.ColumnSpan="2"/>
+            </StackPanel>
+            <StackPanel>
+                <Label Margin="10 10 0 0" Content="Imie" />
+                <TextBox Margin="10 10 0 0" x:Name="imie"></TextBox>
+                <Label Margin="10 10 0 0" Content="Nazwisko" />
+                <TextBox Margin="10 10 0 0" x:Name="nazwisko"></TextBox>
 
+                <Button Content="Zapisz" Margin="10" Width="60" Height="20"
+                        x:Name="btnZapisz" Click="btnZapisz_click" ></Button>
+            </StackPanel>
+        </DockPanel>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="259*"/>
+            <ColumnDefinition Width="141*"/>
+        </Grid.ColumnDefinitions>
+        
     </Grid>
 </Window>

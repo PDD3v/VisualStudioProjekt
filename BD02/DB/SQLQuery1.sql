@@ -1,0 +1,1 @@
+﻿insert into osoby values ('pawel','machalowski',190,90.3,'20221120')
