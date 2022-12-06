@@ -20,3 +20,5 @@ C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCom
 C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\obj\Debug\net6.0-windows\MyCommunicator.genruntimeconfig.cache
 C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\obj\Debug\net6.0-windows\ref\MyCommunicator.dll
 C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\obj\Debug\net6.0-windows\Themes\ContactCard.baml
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\obj\Debug\net6.0-windows\App.baml

@@ -8,9 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="MWW\Model\" />
-    <Folder Include="MWW\View\" />
     <Folder Include="Core\" />
+    <Folder Include="MWW\View\" />
     <Folder Include="Icon\" />
   </ItemGroup>
 

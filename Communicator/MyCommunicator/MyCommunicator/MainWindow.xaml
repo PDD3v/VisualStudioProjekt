@@ -66,7 +66,7 @@
                             BorderThickness="0"
                             Foreground="DarkGray"
                             FontWeight="Bold"
-                            Margin="0,0,0,1"
+                            Margin="0,0,5,1"
                             Click="ButtonClose_Click"/>
 
 
@@ -79,6 +79,33 @@
 
         </Border>
 
-    </Grid>
+        <Grid Background="#2f3136"
+            Grid.Row="1">
+            <Grid.RowDefinitions>
+
+                <RowDefinition Height="50"/>
+                <RowDefinition/>
+                <RowDefinition Height="60"/>
+                <RowDefinition/>
+                
+            </Grid.RowDefinitions>
+
+            <Label Content="Contacts"
+                   VerticalAlignment="Center"
+                   FontWeight="Medium"
+                   Foreground="Gray"
+                   Margin="8,0,0,0"/>
+
+
+            <ListView ItemsSource="{Binding Contacts}" 
+                      Background="Transparent"
+                      BorderThickness="0"
+                      Grid.Row="1"
+                      ItemContainerStyle="{StaticResource ContactCard}"/>
+
+        </Grid>
+
+
+        </Grid>
 </Window>
 

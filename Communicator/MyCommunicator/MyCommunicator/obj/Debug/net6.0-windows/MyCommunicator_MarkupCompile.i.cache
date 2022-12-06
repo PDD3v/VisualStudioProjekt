@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\App.xaml
-11407045341
+2128708656
 
-6-612979650
+8-241291250
 194-2004305220
-MainWindow.xaml;
+MainWindow.xaml;Themes\ContactCard.xaml;
 
-True
+False
 
