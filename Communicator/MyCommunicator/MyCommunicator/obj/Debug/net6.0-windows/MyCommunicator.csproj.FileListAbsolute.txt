@@ -22,3 +22,10 @@ C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCom
 C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\obj\Debug\net6.0-windows\Themes\ContactCard.baml
 C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\obj\Debug\net6.0-windows\App.baml
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\bin\Debug\net6.0-windows\Icon\camera.png
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\bin\Debug\net6.0-windows\Icon\phone.png
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\bin\Debug\net6.0-windows\Icon\plus.png
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\bin\Debug\net6.0-windows\Icon\send.png
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\obj\Debug\net6.0-windows\Themes\ChatItem.baml
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\obj\Debug\net6.0-windows\MyCommunicator_Content.g.cs
+C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\obj\Debug\net6.0-windows\Themes\MessageBox.baml

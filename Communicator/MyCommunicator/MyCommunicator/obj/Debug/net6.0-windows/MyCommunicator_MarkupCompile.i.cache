@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Redmibook\Desktop\VisualStudioProjekt\Communicator\MyCommunicator\MyCommunicator\App.xaml
-2128708656
-
-8-241291250
+5671706099
+4-2196058
+10300877542
 194-2004305220
-MainWindow.xaml;Themes\ContactCard.xaml;
+MainWindow.xaml;Themes\ChatItem.xaml;Themes\ContactCard.xaml;Themes\MessageBox.xaml;Themes\StylishScrollbar.xaml;
 
-False
+True
 
